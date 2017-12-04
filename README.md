@@ -2,5 +2,4 @@
 
 初めてのphina.js
 http://runstant.com/hiro_shuval
-\n
 クリックすると飛びます
